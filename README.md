@@ -1,0 +1,2 @@
+This directory was made to query the entire Redmine Issues Database provided by my company. It dates over 7 years and a lot of issues. It is pretty messy data that was cleaned up in the issue_engineering Jupyter notebook.
+You should likely dig around the SQL database if using this notebook or my scripts to make sure the same information is in yours as mine.
